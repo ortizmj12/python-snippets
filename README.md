@@ -1,0 +1,3 @@
+# python-snippets
+
+Just random snippets of python code that I'm saving because I already figured it out once, I don't wanna spend a bunch of time Googling again...
